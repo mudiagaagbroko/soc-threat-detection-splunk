@@ -47,9 +47,9 @@ The investigation identified:
 | File | Description |
 |------|------------|
 | 📄 incident_timeline.md | Chronological reconstruction of the attack |
-| 📄 splunk_queries.md | Complete SPL queries used for detection |
+| 📄 splunk_queries.md | Full SPL queries used for detection |
 | 📄 mitre_mapping.md | MITRE ATT&CK technique mapping |
-| 🗂 screenshots | Picture evidence |
+| 🗂 screenshots/ | Picture evidence |
 
 ---
 
