@@ -56,7 +56,7 @@ Over 7200 failed SSH attempts from 172.26.96.1, preceded by success, indicating 
 ### Successful Auth (T1078)
 ![Brute Force Detection](screenshots/02_successful_login.png)
 
-**Additional Detections: ** `/screenshots/` (privilege escalation, persistence).
+**Additional Detections: `/screenshots/` (privilege escalation, persistence).
 ---
 
 ## 🗂 Detailed Documentation
