@@ -8,10 +8,10 @@
 
 This project simulates a real-world Linux compromise and demonstrates how a Security Operations Centre (SOC) analyst investigates attacker activities using Splunk SIEM.
 
-The attack lifecycle included:
+The attack lifecycle includes:
 
 - SSH Brute Force
-- Successful Authentication
+- Successful SSH Authentication
 - Privilege Escalation to Root
 - Backdoor User Creation (Persistence)
 
