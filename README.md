@@ -1,4 +1,4 @@
-# 🔐 SOC Linux Investigation – Splunk SIEM Analysis
+# 🔐 SOC Linux Attack Investigation using Splunk (SIEM)
 
 > ⚠️ This project was conducted in a controlled lab environment for educational and defensive security purposes only.
 
