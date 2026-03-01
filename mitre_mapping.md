@@ -19,7 +19,7 @@ All techniques listed below are supported by log evidence collected from `/var/l
 
 ### Analysis
 
-The attacker performed repeated failed login attempts against SSH services. A high volume of authentication failures (3600 attempts) was observed from a single source IP, consistent with automated brute force behaviour.
+The attacker performed repeated failed login attempts against SSH services. A high volume of authentication failures (7200 attempts) was observed from a single source IP, consistent with automated brute force behaviour.
 
 ---
 
