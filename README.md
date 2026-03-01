@@ -6,7 +6,7 @@
 
 ## 📌 Executive Summary
 
-This project simulates a real-world Linux compromise and demonstrates how a Security Operations Centre (SOC) analyst investigates attacker activity using Splunk SIEM.
+This project simulates a real-world Linux compromise and demonstrates how a Security Operations Centre (SOC) analyst investigates attacker activities using Splunk SIEM.
 
 The attack lifecycle included:
 
