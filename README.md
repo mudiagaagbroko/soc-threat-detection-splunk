@@ -42,6 +42,23 @@ The investigation identified:
 
 ---
 
+## Key Detections
+
+## 🔍 Key Detections
+
+Attack investigated by ingesting `/var/log/auth.log` into Splunk, with SPL queries revealing the attack chain.
+
+### Brute Force (T1110)
+![Brute Force Detection](screenshots/01_brute_force_detection.png)
+
+Over 7200 failed SSH attempts from 172.26.96.1, preceded by success, indicating brute-force.
+
+### Successful Auth (T1078)
+![Brute Force Detection](screenshots/02_successful_login.png)
+
+**Additional Detections: ** `/screenshots/` (privilege escalation, persistence).
+---
+
 ## 🗂 Detailed Documentation
 
 | File | Description |
@@ -49,7 +66,7 @@ The investigation identified:
 | 📄 incident_timeline.md | Chronological reconstruction of the attack |
 | 📄 splunk_queries.md | Full SPL queries used for detection |
 | 📄 mitre_mapping.md | MITRE ATT&CK technique mapping |
-| 🗂 screenshots/ | Picture evidence |
+| 🗂 screenshots | Picture evidence |
 
 ---
 
