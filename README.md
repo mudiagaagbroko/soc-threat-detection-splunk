@@ -31,7 +31,7 @@ The Linux authentication logs (`/var/log/auth.log`) were ingested into Splunk an
 
 ## 🔎 Attack Overview
 
-The attacker performed a brute force attack against SSH, gained valid credentials, escalated privileges to root, and established persistence using both account creation and cron job scheduling.
+The attacker performed a brute force attack against SSH, gained valid credentials, escalated privileges to root, and established persistence by creating an account for backdoor access.
 
 The investigation identified:
 
