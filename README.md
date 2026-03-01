@@ -15,7 +15,7 @@ The attack lifecycle included:
 - Privilege Escalation to Root
 - Backdoor User Creation (Persistence)
 
-Authentication logs (`/var/log/auth.log`) were ingested into Splunk and analysed to investigate the full attack chain.
+The Linux authentication logs (`/var/log/auth.log`) were ingested into Splunk and analysed to investigate the full attack chain.
 
 ---
 
