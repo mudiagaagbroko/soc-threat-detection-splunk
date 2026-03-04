@@ -85,7 +85,7 @@ The attacker achieved:
 
 - Remote authenticated access
 - Root-level control
-- Dual persistence mechanisms
+- Persistence mechanism
 
 **Severity Assessment: Critical**
 
