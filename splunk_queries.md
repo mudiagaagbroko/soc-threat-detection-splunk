@@ -9,7 +9,6 @@ source="auth.log" host="MA-PC" sourcetype="linux_secure"
 | stats count by src_ip
 |where count > 20
 | sort -count
-| rename count as "Failed Attempts", src_ip as "Source IP", user as "Target User"
 ```
 
 ### **Detection Query 2: Successful Login After Failures**
