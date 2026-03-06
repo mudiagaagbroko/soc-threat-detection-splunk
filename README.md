@@ -51,7 +51,7 @@ Attack investigated by ingesting `/var/log/auth.log` into Splunk, with SPL queri
 ### Brute Force (T1110)
 ![Brute Force Detection](screenshots/01_brute_force_detection.png)
 
-Over 7200 failed SSH attempts from 172.26.96.1, preceded by success, indicating brute-force.
+Over 10000 failed SSH attempts from 172.26.96.1, preceded by success, indicating brute-force.
 
 ### Successful Auth (T1078)
 ![Brute Force Detection](screenshots/02_successful_login.png)
