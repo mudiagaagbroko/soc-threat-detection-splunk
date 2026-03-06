@@ -6,7 +6,7 @@
 
 ## 📌 Executive Summary
 
-This project simulates a real-world Linux compromise and demonstrates how a Security Operations Centre (SOC) analyst investigates attacker activities using Splunk SIEM.
+This project demonstrates end-to-end detection and investigation of a simulated Linux server compromise using Splunk SIEM. The investigation reconstructs attacker behaviour from initial access through persistence using log analysis and MITRE ATT&CK mapping.
 
 The attack lifecycle includes:
 
